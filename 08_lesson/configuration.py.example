@@ -1,5 +1,4 @@
 # Скопируйте этот файл и переименуйте в configuration.py
-
 BASE_URL = "https://ru.yougile.com/api-v2"
 TOKEN = "ВСТАВЬТЕ_ВАШ_API_КЛЮЧ_ЗДЕСЬ"
 COMPANY_ID = "ВСТАВЬТЕ_ID_ВАШЕЙ_КОМПАНИИ"
